@@ -26,3 +26,5 @@ dist/
 Thumbs.db
 .idea/
 .vscode/
+chroma_faq_db/
+Untitled*.ipynb
